@@ -2,7 +2,7 @@
 
 # Interactive Element Tracking Tool
 
-This tool allows users to select and track interactions on a mock webpage. It offers a visual interface for selecting elements, simulating events, and displaying a dashboard with interaction data.
+I have created this Interactive Element Tool with very basic but functional and interactive UI. This tool allows users to select and track interactions on a mock webpage. It offers a visual interface for selecting elements, simulating events, and displaying a dashboard with interaction data.
 
 ## Table of Contents
 
